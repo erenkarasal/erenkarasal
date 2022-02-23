@@ -65,8 +65,8 @@ I also work as a FreeLancer 🆓.
 [javascript]:https://www.javascript.com/
 [github]: https://github.com/erenkarasal
 [python]: https://www.python.org/
-[ios]: https://www.apple.com/ios/ios-14/
-[xd]: https://www.adobe.com/products/xd.html
+
+
 
 <br/>
 <br/>
