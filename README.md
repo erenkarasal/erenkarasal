@@ -30,11 +30,11 @@ I also work as a FreeLancer 🆓.
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/react/react.png" />][reactjs]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/csharp/csharp.png" />][csharp]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/dotnet/dotnet.png" />][dotnet]
+[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/react/react.png" />][reactjs]
+[<img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/csharp/csharp.png" />][csharp]
+[<img align="left" alt="dotnet" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/dotnet/dotnet.png" />][dotnet]
+[<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/java/java.png" />][java]
 
 <br />
 
@@ -57,10 +57,10 @@ I also work as a FreeLancer 🆓.
 [git]: https://git-scm.com/
 [javascript]:https://www.javascript.com/
 [github]: https://github.com/erenkarasal
-[python]: https://www.python.org/
 [reactjs]:https://reactjs.org/
 [csharp]:https://docs.microsoft.com/en-us/dotnet/csharp/
 [dotnet]:https://dotnet.microsoft.com/en-us/
+[java]:https://www.java.com/en/
 
 <br/>
 <br/>
