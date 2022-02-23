@@ -59,12 +59,10 @@ I also work as a FreeLancer 🆓.
 [instagram]: https://www.instagram.com/erenkarasal/
 [bionluk]: https://bionluk.com/erenkarasal
 [linkedin]: https://www.linkedin.com/in/eren-karasal-07491615a/
-
 [gmail]: mailto:erenkarasal10@gmail.com
-
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[javascript]
+[javascript]:https://www.javascript.com/
 [github]: https://github.com/erenkarasal
 [python]: https://www.python.org/
 [ios]: https://www.apple.com/ios/ios-14/
@@ -81,4 +79,4 @@ I also work as a FreeLancer 🆓.
 
 ### GitHub Analytics 📊
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/erenkarasal/github-readme-stats)
+[![erenkarasal's github stats](https://github-readme-stats.vercel.app/api?username=erenkarasal&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/erenkarasal/github-readme-stats)
